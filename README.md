@@ -118,24 +118,9 @@ GitHub_Diploma_Code/
 
 ## Швидкий старт
 
-### Варіант 1. Робота у Google Colab
+### Робота у Google Colab
 1. Відкрийте `Diploma_Full_Pipeline.ipynb` або будь-який із розділових ноутбуків у папці `notebooks/` безпосередньо в Google Colab.
 2. Усі таблиці та графіки вже вбудовані у комірки ноутбуків для миттєвого перегляду.
 3. Для повторного виконання всіх розрахунків натисніть **`Середовище виконання` -> `Виконати все` (`Runtime` -> `Run all`)**.
-
-### Варіант 2. Локальний запуск через Python
-1. Встановіть залежності:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Запустіть повний обчислювальний конвеєр (усі розділи + генерація графіків та Excel-таблиці):
-   ```bash
-   python run_all.py
-   ```
-3. Або запускайте окремі розділи та генератор Excel-датасету:
-   ```bash
-   python src/section2_direct_problem.py
-   python src/section3_inverse_pca_methodology.py
-   python src/section4_ml_experiments.py
    python src/generate_excel_dataset.py
    ```
