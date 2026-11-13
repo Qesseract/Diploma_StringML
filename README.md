@@ -13,7 +13,6 @@ GitHub_Diploma_Code/
 ├── Diploma_Full_Pipeline.ipynb                  # Повний об'єднаний Jupyter Notebook (усі Розділи 2, 3, 4)
 ├── requirements.txt                             # Список необхідних бібліотек Python
 ├── README.md                                    # Документація проєкту та мапінг рисунків і таблиць диплому
-├── GITHUB_GUIDE.md                              # Покрокова інструкція перенесення з Google Colab на GitHub
 │
 ├── notebooks/                                   # Інтерактивні Jupyter Notebooks (.ipynb), розбиті по розділах диплому
 │   ├── Section_2_Direct_Problem.ipynb           # Розділ 2: Пряма задача коливань струни (Табл. 2.1–2.8, Рис. 2.1–2.9)
