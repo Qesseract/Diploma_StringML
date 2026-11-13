@@ -11,7 +11,6 @@
 ```text
 GitHub_Diploma_Code/
 ├── Diploma_Full_Pipeline.ipynb                  # Повний об'єднаний Jupyter Notebook (усі Розділи 2, 3, 4)
-├── run_all.py                                   # Головний скрипт запуску всіх розрахунків, таблиць, графіків і Excel
 ├── requirements.txt                             # Список необхідних бібліотек Python
 ├── README.md                                    # Документація проєкту та мапінг рисунків і таблиць диплому
 ├── GITHUB_GUIDE.md                              # Покрокова інструкція перенесення з Google Colab на GitHub
