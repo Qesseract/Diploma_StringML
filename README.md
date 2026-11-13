@@ -55,7 +55,6 @@ GitHub_Diploma_Code/
 
 ### Розділ 2. Розв’язання та аналіз прямої задачі коливань струни
 - **Ноутбук**: `notebooks/Section_2_Direct_Problem.ipynb`
-- **Python-модуль**: `src/section2_direct_problem.py`
 
 | Елемент диплому | Підрозділ | Опис | Файл ілюстрації / виводу |
 | :--- | :---: | :--- | :--- |
@@ -81,7 +80,6 @@ GitHub_Diploma_Code/
 
 ### Розділ 3. Обернена задача та методика її розв’язання на основі PCA та машинного навчання
 - **Ноутбук**: `notebooks/Section_3_Inverse_PCA_Methodology.ipynb`
-- **Python-модуль**: `src/section3_inverse_pca_methodology.py`
 
 | Елемент диплому | Підрозділ | Опис | Файл ілюстрації / виводу |
 | :--- | :---: | :--- | :--- |
@@ -92,7 +90,6 @@ GitHub_Diploma_Code/
 
 ### Розділ 4. Числові експерименти та аналіз результатів ідентифікації параметрів струни
 - **Ноутбук**: `notebooks/Section_4_ML_Experiments.ipynb`
-- **Python-модуль**: `src/section4_ml_experiments.py`
 
 | Елемент диплому | Підрозділ | Опис | Файл ілюстрації / виводу |
 | :--- | :---: | :--- | :--- |
